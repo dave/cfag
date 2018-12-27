@@ -13,6 +13,10 @@ environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
 
 dependencies:
+  google_sign_in: ^3.2.4
+  googleapis: any
+  googleapis_auth: any
+
   flutter:
     sdk: flutter
 
